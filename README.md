@@ -9,4 +9,5 @@ In order to maximize those areas, I added meta elements with descriptions, keywo
 
 On the CSS side, I combined multiple classes in order to clean up the CSS page. Limited the amount of classes used without destroying the flow and style of the page. I added an @media tag to help those viewing it on smaller devices such as tablets and phones. 
 
-#### Link To The Repository
+#### Link To The Website
+https://latinobull.github.io/Horiseon-Refactor/
